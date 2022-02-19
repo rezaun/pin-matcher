@@ -1,0 +1,2 @@
+ # See the site live: https://rezaun.github.io/pin-matcher/
+ > Click on pin generator and type same one in the right side patel. If you types number matches with generator number you will see the success message. Otherwise you can get an error message
